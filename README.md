@@ -34,5 +34,5 @@ This is a bot for checking tomorrow's gas price in Canada
 
 ### GitHub Actions
 
-- I recommend using GitHub Actions, check `.github/workflows/gas-price.yml`
+- I recommend using GitHub Actions, check `.github/workflows/gas-price.yml`, I set to trigger the workflow everyday 5pm (Toronto Summer time)
 - I also recommend using a private repository, to avoid make sensitive information public

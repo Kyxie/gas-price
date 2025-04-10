@@ -2,7 +2,7 @@ from model.User import User
 
 # General configuration
 fetch_new = True
-send_email = True
+send_email = False
 delete_text = True
 
 # SMTP configuration
