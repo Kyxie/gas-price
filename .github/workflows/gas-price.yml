@@ -1,13 +1,15 @@
 name: Gas Price application
 
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  schedule:
-    # Runs on Toronto time every 5pm (Summer), 4pm (Windter)
-    - cron: '0 21 * * *'
+on: []
+
+# on:
+#   push:
+#     branches: [ "main" ]
+#   pull_request:
+#     branches: [ "main" ]
+#   schedule:
+#     # Runs on Toronto time every 5pm (Summer), 4pm (Windter)
+#     - cron: '0 21 * * *'
 
 permissions:
   contents: read
