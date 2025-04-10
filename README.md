@@ -9,7 +9,7 @@ This is a bot for checking tomorrow's gas price in Canada
 - If you want to run locally, make sure install Python 3.10 and the libraries
 
   ```bash
-  pip install requests python-dotenv
+  pip install requests
   ```
 
 - Modify `config.py`
